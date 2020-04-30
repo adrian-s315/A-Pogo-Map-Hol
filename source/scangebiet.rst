@@ -9,7 +9,7 @@ Nachfolgende Screenshots zeigen euch, in welchen Gebieten wir Pokemon und Pokest
 Pokemon
 """""""
 
-`Gebiet Pokemonscan <https://raw.githubusercontent.com/adrian-s315/A-Pogo-Map-Hol/master/build/html/_sources/holzmindenpokemonarea.JPG>`_
+`Gebiet Pokemonscan <https://raw.githubusercontent.com/adrian-s315/A-Pogo-Map-Hol/master/build/html/_images/holzmindenpokemonarea.JPG>`_
 
 .. image:: images/holzmindenpokemonarea.JPG
     :width: 700px
@@ -20,7 +20,7 @@ Pokemon
 Pokestops
 """""""""
 
-`Gebiet Pokestopscan Holzminden <https://raw.githubusercontent.com/adrian-s315/A-Pogo-Map-Hol/master/build/html/_sources/holzmindenpokestoparea.JPG>`_
+`Gebiet Pokestopscan Holzminden <https://raw.githubusercontent.com/adrian-s315/A-Pogo-Map-Hol/master/build/html/_images/holzmindenpokestoparea.JPG>`_
 
 .. image:: images/holzmindenpokestoparea.JPG
     :width: 700px
@@ -28,7 +28,7 @@ Pokestops
     :height: 435px
     :alt: Holzminden Pokestop Gebiet
 
-`Gebiet Pokestopscan Lüchtringen <https://raw.githubusercontent.com/adrian-s315/A-Pogo-Map-Hol/master/build/html/_sources/lüchtringenpokestoparea.JPG>`_
+`Gebiet Pokestopscan Lüchtringen <https://raw.githubusercontent.com/adrian-s315/A-Pogo-Map-Hol/master/build/html/_images/lüchtringenpokestoparea.JPG>`_
 
 .. image:: images/lüchtringenpokestoparea.JPG
     :width: 700px
@@ -36,7 +36,7 @@ Pokestops
     :height: 614px
     :alt: Lüchtringen Pokestop Gebiet
 
-`Gebiet Pokestopscan Höxter <https://raw.githubusercontent.com/adrian-s315/A-Pogo-Map-Hol/master/build/html/_sources/höxterpokestoparea.JPG>`_
+`Gebiet Pokestopscan Höxter <https://raw.githubusercontent.com/adrian-s315/A-Pogo-Map-Hol/master/build/html/_images/höxterpokestoparea.JPG>`_
 
 .. image:: images/höxterpokestoparea.JPG
     :width: 700px
