@@ -16,8 +16,12 @@ Klickt euch durch die Seiten im Inhaltsverzeichnis oder die Navigationsleiste li
 .. toctree::
    :maxdepth: 2
    :caption: Inhaltsverzeichnis:
-
-
+   
+   allgemeines
+   telegram
+   befehlsübersicht
+   tracklisten
+   ivlistehol
 
 Fragen bitte in unserer Whatsapp Gruppe "Pogo Map Holzminden" oder persönlich z.B. bei einem Raid klären.
 
