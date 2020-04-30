@@ -22,6 +22,7 @@ Klickt euch durch die Seiten im Inhaltsverzeichnis oder die Navigationsleiste li
    befehlsübersicht
    tracklisten
    ivlistehol
+   scangebiet
 
 Fragen bitte in unserer Whatsapp Gruppe "Pogo Map Holzminden" oder persönlich z.B. bei einem Raid klären.
 

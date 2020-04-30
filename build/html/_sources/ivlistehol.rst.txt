@@ -25,7 +25,7 @@ Aufgrund der Limitierung von maximal 2 Pokemon pro angesteuerter Position müsse
 
 Wir haben daher bereits eine ganze Reihe von Pokemon aus dem IV Scan ausgeschlossen. Auch hier gilt: Die Liste ist nur ein erster Vorschlag von uns und kann angepasst werden.
 
-Die Listen können hier leider nicht besonders übersichtlich dargestellt werden. Hier eine einfache Textdatei: `Map <https://map.pexmap.net>`_
+Die Listen können hier leider nicht besonders übersichtlich dargestellt werden. Hier eine einfache Textdatei: `Nicht gescannt <https://raw.githubusercontent.com/adrian-s315/A-Pogo-Map-Hol/master/build/html/_sources/Nicht%20gescannt.txt>`_
 
 10    Raupy
 11    Safcon
@@ -172,7 +172,7 @@ Außerdem alle Pokemon ab Generation 6, da diese zur Zeit noch nicht im Spiel im
 Gescannt inkl. Prio
 """""""""""""""""""
 
-Die Listen können hier leider nicht besonders übersichtlich dargestellt werden. Hier eine einfache Textdatei: `Map <https://map.pexmap.net>`_
+Die Listen können hier leider nicht besonders übersichtlich dargestellt werden. Hier eine einfache Textdatei: `Gescannt <https://raw.githubusercontent.com/adrian-s315/A-Pogo-Map-Hol/master/build/html/_sources/Gescannt.txt>`_
 
 3    Bisaflor
 6    Glurak
