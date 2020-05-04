@@ -152,6 +152,7 @@
 57	Rasaff
 58	Fukano
 59	Arkani
+60  Quapsel
 62	Quappo
 63	Abra
 64	Kadabra
@@ -510,3 +511,4 @@
 647	Keldeo
 648	Meloetta
 649	Genesect
+96  Traumato
