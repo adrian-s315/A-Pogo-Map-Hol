@@ -27,7 +27,6 @@
 49	Omot
 52	Mauzi
 53	Snobilikat
-60	Quapsel
 61	Quaputzi
 69	Knofensa
 70	Ultrigaria
@@ -40,7 +39,6 @@
 87	Jugong
 90	Muschas
 91	Austos
-96	Traumato
 97	Hypno
 98	Krabby
 99	Kingler
