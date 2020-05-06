@@ -62,7 +62,6 @@
 168	Ariados
 177	Natu
 178	Xatu
-187	Hoppspross
 188	Hubelupf
 189	Papungha
 194	Felino
