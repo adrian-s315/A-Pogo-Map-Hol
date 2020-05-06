@@ -50,6 +50,8 @@ Welche Pokemon sind Teil der Listen? Anhand von "iv98undpvp":
     /track Quapsel atk8 maxatk8 def15 maxdef15 sta15 maxsta15 d3500
     /track Quapsel atk0 maxatk0 def14 maxdef15 sta14 maxsta15 maxlevel22 d3500
     /track Schilterus atk12 maxatk12 def15 maxdef15 sta15 maxsta15 d3500
+    /track Bisasam atk0 maxatk0 def14 maxdef14 sta11 maxsta11 maxlevel21 d3500
+    /track Evoli atk0 maxatk0 def15 maxdef15 sta15 maxsta15 maxlevel17 d3500
 
 Neben den Pokemon mit 98% IV haben wir einige seltene Pokemon ergänzt, für die ihr eine Benachrichtigung unabhängig vom IV Wert erhaltet. Außerdem sind noch die besten IV Konstellationen von nützlichen PvP Pokemon dabei.
 

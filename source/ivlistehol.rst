@@ -56,7 +56,6 @@ Die Listen können hier leider nicht besonders übersichtlich dargestellt werden
 49    Omot
 52    Mauzi
 53    Snobilikat
-60    Quapsel
 61    Quaputzi
 69    Knofensa
 70    Ultrigaria
@@ -69,7 +68,6 @@ Die Listen können hier leider nicht besonders übersichtlich dargestellt werden
 87    Jugong
 90    Muschas
 91    Austos
-96    Traumato
 97    Hypno
 98    Krabby
 99    Kingler
@@ -93,7 +91,6 @@ Die Listen können hier leider nicht besonders übersichtlich dargestellt werden
 168    Ariados
 177    Natu
 178    Xatu
-187    Hoppspross
 188    Hubelupf
 189    Papungha
 194    Felino
@@ -328,6 +325,7 @@ Die Listen können hier leider nicht besonders übersichtlich dargestellt werden
 57    Rasaff
 58    Fukano
 59    Arkani
+60    Quapsel
 62    Quappo
 63    Abra
 64    Kadabra
@@ -686,3 +684,5 @@ Die Listen können hier leider nicht besonders übersichtlich dargestellt werden
 647    Keldeo
 648    Meloetta
 649    Genesect
+187    Hoppspross
+96     Traumato

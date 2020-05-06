@@ -91,7 +91,6 @@ Die Listen können hier leider nicht besonders übersichtlich dargestellt werden
 168    Ariados
 177    Natu
 178    Xatu
-187    Hoppspross
 188    Hubelupf
 189    Papungha
 194    Felino
@@ -685,4 +684,5 @@ Die Listen können hier leider nicht besonders übersichtlich dargestellt werden
 647    Keldeo
 648    Meloetta
 649    Genesect
+187    Hoppspross
 96     Traumato
